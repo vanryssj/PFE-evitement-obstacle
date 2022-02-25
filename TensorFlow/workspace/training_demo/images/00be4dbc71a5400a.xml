@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bustruck</folder>
+	<filename>00be4dbc71a5400a.jpg</filename>
+	<path>/home/julien/Bureau/M2/PFE/TensorFlow/workspace/training_demo/images/bustruck/00be4dbc71a5400a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>138</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>5</ymin>
+			<xmax>87</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

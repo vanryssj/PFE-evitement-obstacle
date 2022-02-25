@@ -1,0 +1,26 @@
+<annotation>
+	<folder>obstacle</folder>
+	<filename>images51.jpeg</filename>
+	<path>/home/julien/Bureau/M2/PFE/TensorFlow/workspace/training_demo/images/obstacle/images51.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>obstacle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>85</ymin>
+			<xmax>262</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>

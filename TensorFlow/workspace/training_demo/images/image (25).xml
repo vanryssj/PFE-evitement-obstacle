@@ -1,0 +1,26 @@
+<annotation>
+	<folder>person</folder>
+	<filename>image (25).jpg</filename>
+	<path>/home/julien/Bureau/M2/PFE/TensorFlow/workspace/training_demo/images/person/image (25).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>145</ymin>
+			<xmax>184</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

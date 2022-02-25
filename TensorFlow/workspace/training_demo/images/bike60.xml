@@ -1,0 +1,26 @@
+<annotation>
+	<folder>moto</folder>
+	<filename>bike60.png</filename>
+	<path>/home/julien/Bureau/M2/PFE/TensorFlow/workspace/training_demo/images/moto/bike60.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>47</ymin>
+			<xmax>296</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
