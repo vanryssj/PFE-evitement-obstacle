@@ -1,0 +1,138 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f9e8e7215034cb325a60bfc580a70457
+# Starting compiling UnityEngine.UI.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9480ca39255d9c2508f3386d26f8560a
+# Starting compiling UnityEditor.TestRunner.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-76538735f19170f408057b08ba1c52c0
+# Starting compiling UnityEditor.UI.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-54e146e97732cd9ec9b53d3d410f9d1f
+# Starting compiling Unity.VSCode.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c5e41ff4e4b1e374e81ae7e05c9a9103
+# Starting compiling Unity.VisualStudio.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4328f55fab31c0244aeb389b01f79244
+# Starting compiling Unity.Timeline.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-38b1e6d47504ddf6693a90bc8d497d4c
+# Starting compiling Unity.TextMeshPro.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2cd3859f645020c738a079afd503e928
+# Starting compiling Unity.InputSystem.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1ebb01ab0d1b456db8a75d4949caab7e
+# Starting compiling Unity.Rider.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-13cca48d9dc33ebac8a0dd49f0ac136a
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cb1b4982385432a91a1b2d6e6ce7b9ec
+# Starting compiling Unity.Mathematics.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8ff2f0347457083cfab8ca0b2beb4d5a
+# Starting compiling Unity.ML-Agents.CommunicatorObjects.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f153e9f96e1447f549c455b8222547b8
+# Starting compiling Unity.Services.Core.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e98bc25ecaeaaa8118278b936d2d4701
+# Starting compiling Unity.Burst.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e007c109f637e8dd5ae38572a7abc019
+# Starting compiling Unity.Timeline.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-55433e2ed66385c4590871aa7802c3e5
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-986f685aa0750e82bab67ee38ac40618
+# Starting compiling Unity.CollabProxy.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3b0d0c316cd82b938a10f0c3d0f098fb
+# Starting compiling Unity.Burst.CodeGen.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-70519daa72168a70bb62ae34ca8bce4b
+# Starting compiling Unity.Burst.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b12fff6dab01a129cb327d082d2cf215
+# Starting IL post processing on UnityEngine.TestRunner.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-6cd896871bdd4ba3893d7430078b15c2"
+# Starting IL post processing on UnityEngine.UI.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-1870268196807a486b0d149b61d62781"
+# Starting IL post processing on UnityEditor.TestRunner.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-69f34201bb99c7ca2ae290b188ae8909"
+# Starting IL post processing on UnityEditor.UI.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-28fa171a65b4889ebb012abbd21693ce"
+# Starting IL post processing on Unity.VSCode.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-79ec810c93ff16b66ab1be0cfda3cf7e"
+# Starting IL post processing on Unity.VisualStudio.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-1cc3691edff8a658d9086cd183b6aeb1"
+# Starting IL post processing on Unity.Rider.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-0bc2acb43575e0a97aee5e3b800ee1bf"
+# Starting IL post processing on Unity.Services.Core.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-77cfba1eedb97f9019ed9f596c27be99"
+# Starting IL post processing on Unity.ML-Agents.CommunicatorObjects.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-8cd6d172e9b2182998065d9c7f64a6b0"
+# Starting IL post processing on Unity.Timeline.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-f7915d7c0c7039c53b3f62e3ef752276"
+# Starting IL post processing on Unity.TextMeshPro.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-484a358094f0a3cc692cc85ce70e460b"
+# Starting IL post processing on Unity.PlasticSCM.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-27506852cc60ad9339be1ea912f811d0"
+# Starting IL post processing on Unity.Burst.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-466b9a81bdf3ca1fe8be08468b80965e"
+# Starting compiling Unity.Barracuda.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7e89620bfdb34e026987b534dc49adee
+# Starting compiling Unity.ML-Agents.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-158cfba6a1c348b64b46183f53af7c9c
+# Starting compiling Unity.Barracuda.ONNX.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c1e5ead5f5dd0871f99badfe380ea391
+# Starting compiling Unity.Barracuda.iOSBLAS.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6030b4635ba40372d8d181d15d8d8e3d
+# Starting compiling Unity.Barracuda.BurstBLAS.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d92a5ddb07235181a84b835c802f3805
+# Starting compiling Unity.Mathematics.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fc37250470f4561f58d2df1f04291aeb
+# Starting compiling Unity.Barracuda.MacBLAS.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0524ebd67952876b895a3fea491127c1
+# Starting IL post processing on Unity.InputSystem.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-88c71438ae5a264fb910e87cf465cfb4"
+# Starting IL post processing on Unity.TextMeshPro.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-486c1d3c1e66d722ca93845942b4fac3"
+# Starting IL post processing on Unity.Timeline.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-3df47017c756488b99ca7dc6c0c376a2"
+# Starting IL post processing on Unity.Burst.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-44795516791b16af6ab710b2655a5983"
+# Starting IL post processing on Unity.CollabProxy.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-7baf7b5ff900da207a197522eef3d77b"
+# Starting IL post processing on Unity.Mathematics.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-4f9055df9374697958420d90e18ec075"
+# Starting compiling Unity.ML-Agents.Extensions.Input.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2a153420c5179c72cad85bfacdcc9cf9
+# Starting compiling Unity.ML-Agents.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6c05f1788e2903bef8ebfe8e2a021993
+# Starting compiling Unity.Barracuda.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-63ed5744283adbb2cbd753eb82ec11e0
+# Starting compiling Unity.ML-Agents.Extensions.Editor.Input.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2b52f74ec0b28122eac63d732f48337b
+# Starting compiling Unity.ML-Agents.Extensions.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3157c7aab1b6fd94298c5c5ecc4dafec
+# Starting IL post processing on Unity.Barracuda.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-de4f76789a0d255398f081ef278fc56e"
+# Starting IL post processing on Unity.Barracuda.BurstBLAS.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-8c8b42e5d3cf05df992c803c26d2692c"
+# Starting IL post processing on Unity.Barracuda.MacBLAS.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-00f2f09b80d94c3c3a7995647ff57d53"
+# Starting IL post processing on Unity.Barracuda.iOSBLAS.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-2610065fb1eeba212a183c89aad54671"
+# Starting IL post processing on Unity.Mathematics.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-5352af2e744dc6fa99e962b2a5f1a9e1"
+# Starting IL post processing on Unity.ML-Agents.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-1324a7d25356d74e5bdf0bbf69d4e153"
+# Starting IL post processing on Unity.Barracuda.ONNX.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-ecaea8ac76a61d5cdbc76f9b8a4e34e7"
+# Starting IL post processing on Unity.ML-Agents.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-43da203e1616ecda1b1f5d7a74722d6c"
+# Starting IL post processing on Unity.ML-Agents.Extensions.Input.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-4a95f4035a3f45ee7afc406ef342bb1b"
+# Starting IL post processing on Unity.Barracuda.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-5d9c37bf5c4c3f2bb8c5a42716418ba1"
+# Starting IL post processing on Unity.ML-Agents.Extensions.Editor.Input.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-28b40ef775d79135bbfd59374f6d459a"
+# Starting IL post processing on Unity.ML-Agents.Extensions.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-7042594d7080efc44ac69419fcbe5ae9"
+# Starting compiling Unity.ML-Agents.Extensions.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0015d63ea53cf6f5f9eaf958076d5d43
+# Starting compiling Assembly-CSharp.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bb469bdb5451dec919bbe74e8b7928e7
+# Starting compiling Assembly-CSharp-Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f68b8680a13cbdcf3a94c6de1ec39378
+# Starting IL post processing on Unity.ML-Agents.Extensions.Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-9a74fdacbfe8e38ee83e097692500092"
+# Starting IL post processing on Assembly-CSharp.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-fade2d91831f785059aefe5ecc29fecc"
+# Starting IL post processing on Assembly-CSharp-Editor.dll
+/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/bin/mono "/home/julien/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Tools/ILPostProcessorRunner/ILPostProcessorRunner.exe" @"/home/julien/Bureau/M2/PFE/PFE-evitement-obstacle/PFE/Temp/UnityTempFile-b61aed249369ae873b46fc2e413f6025"

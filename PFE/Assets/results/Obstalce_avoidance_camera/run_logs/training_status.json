@@ -1,0 +1,65 @@
+{
+    "Obstacle_avoidance": {
+        "checkpoints": [
+            {
+                "steps": 499997,
+                "file_path": "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-499997.onnx",
+                "reward": 0.5555555555555556,
+                "creation_time": 1645020415.0458055,
+                "auxillary_file_paths": [
+                    "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-499997.pt"
+                ]
+            },
+            {
+                "steps": 999997,
+                "file_path": "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-999997.onnx",
+                "reward": 1.0,
+                "creation_time": 1645022650.158756,
+                "auxillary_file_paths": [
+                    "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-999997.pt"
+                ]
+            },
+            {
+                "steps": 1499996,
+                "file_path": "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-1499996.onnx",
+                "reward": 0.3333333333333333,
+                "creation_time": 1645024883.5191941,
+                "auxillary_file_paths": [
+                    "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-1499996.pt"
+                ]
+            },
+            {
+                "steps": 1999979,
+                "file_path": "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-1999979.onnx",
+                "reward": 0.6842105263157895,
+                "creation_time": 1645027118.2574525,
+                "auxillary_file_paths": [
+                    "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-1999979.pt"
+                ]
+            },
+            {
+                "steps": 2000001,
+                "file_path": "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-2000001.onnx",
+                "reward": 0.7,
+                "creation_time": 1645027118.3547893,
+                "auxillary_file_paths": [
+                    "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-2000001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000001,
+            "file_path": "results/Obstalce_avoidance_camera/Obstacle_avoidance.onnx",
+            "reward": 0.7,
+            "creation_time": 1645027118.3547893,
+            "auxillary_file_paths": [
+                "results/Obstalce_avoidance_camera/Obstacle_avoidance/Obstacle_avoidance-2000001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
