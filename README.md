@@ -57,4 +57,4 @@ Pour lancer la simulation sur une scène il suffit juste d'appuyer sur le bouton
 
 Dans le dossier PFE on retrouve également d'autres dossier comme EasyRoads3D,Arcade-FREE-Racing Car, laxer tree pkg, ToonyTinyPeople et ML-agents qui sont les librairies utilisées dans le projet. Il y a aussi Obstacle_avoidance.cs qui est le script utilisé dans la simulation pour faire bouger la voiture et permettre à l'agent d'apprendre.
 
-
+Si vous souhaitez prendre en main unity et la librairie ml-agent pour créer vos porpres simulations vous pouvez aller voir : https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Getting-Started.md et https://github.com/Unity-Technologies/ml-agents/blob/release_1/docs/Learning-Environment-Create-New.md
